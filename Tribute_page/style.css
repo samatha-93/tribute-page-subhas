@@ -1,0 +1,21 @@
+.head{
+text-align: center;
+text-decoration: underline;
+font-weight: bolder;
+font-style: oblique;
+color: black;
+}
+body{
+  text-align: center;
+  background-color: aqua;
+  padding: 3px;
+  
+}
+img{
+  height: 30vh;
+}
+main{
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+}
