@@ -27,4 +27,4 @@ This is a beginner-level project built using HTML and CSS. It is a tribute page 
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live project](https://samatha-93.github.io/tribute-page-subhas-chandra-bose/)
+👉 [Click here to view the live project](https://samatha-93.github.io/tribute-page-subhas/)
